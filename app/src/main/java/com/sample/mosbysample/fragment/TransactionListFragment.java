@@ -18,8 +18,8 @@ import com.sample.mosbysample.adapter.TransactionListAdapter;
 import com.sample.mosbysample.model.TransactionModel;
 import com.sample.mosbysample.model.ErrorViewModel;
 import com.sample.mosbysample.model.SuccessViewModel;
-import com.sample.mosbysample.mvp.home.TransactionListContract;
-import com.sample.mosbysample.mvp.home.TransactionListPresenterImp;
+import com.sample.mosbysample.mvp.transaction.TransactionListContract;
+import com.sample.mosbysample.mvp.transaction.TransactionListPresenterImp;
 
 /**
  * Created by Shahanur on 19-Mar-18.
